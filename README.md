@@ -10,3 +10,8 @@
 ## Project Description
 This project aims to deliver the best strategy for the snake game. That is, to maximize the points (eating dots) while preventing dying (colliding with the wall or enemies). This project utilizes SFML framework and demonstrates my ability to implement Entity Component System (ECS).
 
+<img width="958" alt="截圖 2025-02-28 下午5 41 47" src="https://github.com/user-attachments/assets/efef9ebf-e2fb-43ae-b08c-d9adafb7538b" />
+
+<img width="956" alt="截圖 2025-02-28 下午5 42 03" src="https://github.com/user-attachments/assets/01b817f1-e6cb-4412-b265-9c0bbac2850d" />
+
+
